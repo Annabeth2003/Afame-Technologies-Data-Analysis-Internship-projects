@@ -10,5 +10,5 @@ I have thoroughly analyzed our sales data using Power BI by following a systemat
 4. Defined relationships between tables and created measures and calculated fields using DAX in the data modeling phase.
 5. Used Power BI’s visualization tools for exploratory data analysis to explore the data and identify patterns.
 6. Built interactive dashboards with charts, graphs, and tables, incorporating slicers and filters for enhanced interactivity.
-7. Utilized Power BI’s analytics features such as forecasting and trend lines to derive insights and created key performance indicators (KPIs).
-8. Continuously monitored and updated the reports based on feedback, regularly refreshing data and improving visualizations to ensure the information remains current and actionable.
+7. Utilized Power BI’s analytics features such as forecasting and trend lines to derive insights.
+8. I have attached the .pbix file and snapshots of the dashboards.
