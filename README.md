@@ -19,18 +19,31 @@ Project 2 : HR Data Analysis:
 Using Jupyter Notebook:
 
 1.Defined Objectives: Set clear goals to understand factors contributing to employee attrition and overall job satisfaction.
+
 2.Data Collection: Imported the HR dataset using pandas.
+
 3.Data Cleaning: Ensured data accuracy by checking for missing values and correcting errors.
+
 4.Exploratory Data Analysis (EDA): Conducted initial data exploration using summary statistics and visualizations (e.g., histograms, box plots) to understand distributions and identify patterns.
+
 5.Feature Engineering: Created new features and transformed existing ones to better suit the analysis.
+
 6.Predictive Analysis: Used logistic regression to predict employee attrition, evaluating model performance with accuracy scores and classification reports.
+
 
 Using Power BI:
 
 1.Defined Objectives: Set clear goals to understand factors contributing to employee attrition and overall job satisfaction.
+
 2.Data Collection and Import: Imported the HR dataset using the "Get Data" feature in Power BI.
+
 3.Data Cleaning and Transformation: Cleaned data by removing duplicates, handling missing values, and standardizing formats using Power Query Editor.
+
 4.Data Modeling: Defined relationships between tables and created calculated columns and measures using DAX.
+
 5.Exploratory Data Analysis (EDA): Used Power BI’s visualization tools (e.g., histograms, bar charts) to explore data and identify patterns.
+
 6.Data Visualization: Built interactive dashboards with charts, graphs, and tables, incorporating slicers and filters for enhanced interactivity.
+
 7.Analysis and Insights: Utilized Power BI’s analytics features to derive insights and created key performance indicators (KPIs) to track important metrics.
+
