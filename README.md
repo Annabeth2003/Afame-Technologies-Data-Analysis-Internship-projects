@@ -47,3 +47,39 @@ Using Power BI:
 
 7.Analysis and Insights: Utilized Power BI’s analytics features to derive insights and created key performance indicators (KPIs) to track important metrics.
 
+Project 3: Titanic Survival Prediction:
+
+1. Objective: Predict survival of Titanic passengers based on available attributes.
+
+2. Models Used:
+
+   Logistic Regression: Analyzed linear relationship between features and survival probability.
+
+   Decision Tree: Constructed a tree-like model to classify passengers based on feature thresholds.
+
+   Random Forest: Ensemble of decision trees to improve predictive accuracy and handle overfitting.
+
+   Support Vector Machine (SVM): Classified passengers by finding optimal hyperplane separating survival classes.
+
+   k-Nearest Neighbors (k-NN): Classified passengers based on similarity to nearest neighbors in feature space.
+
+3. Approach:
+
+   Explored dataset features such as age, gender, and class.
+
+   Preprocessed data by handling missing values and encoding categorical variables.
+
+   Evaluated each model's performance using metrics like accuracy and classification reports.
+
+4. Results:
+
+   Identified significant predictors of survival across models, such as gender and class.
+
+   Compared models to determine the most effective for predicting survival outcomes.
+
+5. Conclusion:
+
+   Demonstrated application of multiple machine learning techniques in historical event analysis.
+
+   Discussed insights gained and potential for further improvements in predictive modeling approaches.
+
